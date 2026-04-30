@@ -6,18 +6,17 @@
 <h3 align="center">Full Stack Developer | MERN & Django</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+scalable+web+apps;MERN+Stack+Developer;Django+Backend+Engineer;Open+to+Internships&center=true&width=500&height=45&color=ffffff">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+scalable+web+applications;MERN+Stack+Developer;Django+Backend+Engineer&center=true&width=500&height=45&color=ffffff">
 </p>
 
 ---
 
 ## 🚀 About Me
 
-* 💻 Full Stack Developer (MongoDB, Express, React, Node.js, Django)
-* 🎯 Focused on building real-world, scalable applications
-* 🌱 Currently improving backend architecture & deployment skills
-* 🤝 Open to internships and entry-level opportunities
-* ⚡ Strong interest in startups & fast-paced environments
+* 💻 Full Stack Developer specializing in MERN & Django
+* 🧠 Passionate about building scalable and efficient systems
+* ⚙️ Strong focus on backend architecture and API development
+* 🌍 Interested in solving real-world problems through technology
 
 ---
 
@@ -44,18 +43,22 @@
 
 ## 🧩 Featured Projects
 
-* 🏨 **Hotel Management System** – Full-stack booking & admin system
-* 🚗 **Car Dealer Platform** – AI recommendations + 360° car view
-* 🌐 **Portfolio Website** – Clean and responsive developer portfolio
-* ⚙️ **REST API (Django)** – Authentication + CRUD system
+* 🏨 **Hotel Management System** – Full-stack booking and admin platform
+* 🚗 **Car Dealer Platform** – Smart recommendations and virtual viewing
+* 🌐 **Portfolio Website** – Clean and responsive personal portfolio
+* ⚙️ **Django REST API** – Authentication and CRUD system
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/YOUR_LINK"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:arokoolafemi@outlook.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/oluwafemi-arokoola-1181863b5/">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
